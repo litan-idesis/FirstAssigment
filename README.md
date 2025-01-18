@@ -1,1 +1,1 @@
-This is my First Assigment in Andorid Studio Course - Recycle View
+This is my First Assigment in Andorid Course - Recycle View
